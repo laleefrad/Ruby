@@ -1,0 +1,19 @@
+Encore un concept fondamental dans l'informatique : les types de données. 
+Les types de données sont grosso-modo ce que tu vas mettre dans les variables. 
+Pour le moment tu en as vu un seul type : les string. 
+Un string est une suite de caractères, par exemple "Bonjour, monde !" est un string et il sera toujours entre guillemets anglais (") ou apostrophes (').
+
+Voici quelques autres types de données :
+
+integer  --> ce sont des nombres entiers (2, 0, 23972 ou -3 sont des integer)
+float --> ce sont des nombres réels, généralement écrits avec un point (3.14, 2.5, 4.0 sont des floats)
+booléen -->  ils n'ont que deux valeurs : true ou false.
+
+----------------------------------------------------------------------
+Mais dis-donc Jamy, dans le programme je vois deux signes égal == alors que dans un autre programme il n'y en a qu'un seul
+
+C'est une excellente question. Deux signe égal veut dire que tu compares deux éléments. S'ils sont égaux, cela te renverra true, sinon false. Par exemple 12 == 13 te renverra false.
+
+Un seul signe égal veut dire que tu assignes une valeur à une variable. C'est à dire que "la variable untel devient le type de données truc". Par exemple number = 3 veut dire "la variable number devient l'integer 3".
+
+Pour t'en souvenir, utilise ce moyen mnémotechnique de ma création : Le signe égal, quand y'en a un, c'est que ta variable devient. Le signe égal, quand y'en a deux, vrai ou faux, c'est l'heure de ce petit jeu.

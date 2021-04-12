@@ -1,0 +1,1 @@
+hello_string = "Hello, world !" # il n'envoie rien car il n'y a pas de puts
